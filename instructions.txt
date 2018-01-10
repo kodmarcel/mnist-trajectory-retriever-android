@@ -1,0 +1,18 @@
+!! applicationis about 11MB so i recommend wifi
+- Download mnist.apk from https://drive.google.com/drive/u/0/folders/12UN99H1LMqoRtK9-cWk11aFNb3Ma2l68 to your phone
+
+- install the apk
+	+ if it says you cannot install 3rd party apps:
+		* go under settings/security or settings/applications (depending on android version)
+		* enable UNKNOWN SOURCES (Allow installation of apps from unknown sources)
+- Open application
+- Press start
+- Press Go TO... and select the number you were assigned
+- Draw on the image as if you would like to drag the same shape using a pencil
+- Press continue to move to another image and save currently displayed trajectory
+- Once you are done press back
+- Press Send Data
+- Choose Gmail and press send. The data will be automatically send to a designated email adress. You can also add in any suggestions, praises or critiques to the email
+	+ If you want you can also choose other options like google drive or faceboock to send me data
+
+
